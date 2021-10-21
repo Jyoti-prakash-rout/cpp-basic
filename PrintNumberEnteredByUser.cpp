@@ -5,7 +5,7 @@ int main() {
     int number;
 
     cout<< "Enter an intiger";
-    cin>>number;
+    cin>>number; 
 
     return 0;
 }
